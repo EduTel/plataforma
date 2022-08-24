@@ -69,3 +69,5 @@ python manage.py makemigrations
 
 
 from apps.rentings.models import Event, Through_Event_User_customer
+
+.
